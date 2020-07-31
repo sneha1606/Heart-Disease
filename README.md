@@ -2,7 +2,7 @@
 
 Introduction: 
 
-*The below mentioned project has been completed for a case study competition by IIT-Rohtak*
+*The below mentioned project has been completed for a case study competition by IIT-Roorkee*
 
 Problem Statement:
 The goal is to predict the rate of heart disease (per 100,000 individuals) across the United States at the county-level from other socioeconomic indicators. The data is compiled from a wide range of sources .
